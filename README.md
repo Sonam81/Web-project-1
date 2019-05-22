@@ -1,5 +1,13 @@
 # Web-project-1
 A simple online shopping website
+
+**Front Page**
+![](images/sc1.PNG)
+
+**Product Page**
+![](images/sc2.PNG)
+
+## Some functions are:
 1. **Admin**
    1. Add item
    1. Edit item
