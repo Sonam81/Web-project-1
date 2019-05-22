@@ -1,2 +1,2 @@
 # Web-project-1
-Web
+A simple online shopping website
