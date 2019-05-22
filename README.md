@@ -7,7 +7,7 @@ A simple online shopping website
 **Product Page**
 ![](images/sc2.PNG)
 
-## Some functions are:
+### Some functions are:
 1. **Admin**
    1. Add item
    1. Edit item
